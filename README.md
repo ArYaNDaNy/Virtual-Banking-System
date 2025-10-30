@@ -26,18 +26,17 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Database Setup](#database-setup)
-  * [Installation & Usage](#installation--usage)
-* [License](#license)
+  * [Installation & Usage](#installation-usage)  * [License](#license)
 
 <hr>
 
-## 📜 Overview
+## Overview
 
 This project is a banking management application built with **Java Swing** for the user interface and **MySQL** for secure data storage. It supports core banking features such as account creation, deposits, withdrawals, balance checks, and transaction history tracking.
 
 The system provides a clean and interactive UI, role-based access (admin/customer), and real-time database connectivity to ensure accurate and efficient banking operations.
 
-## ✨ Key Features
+## Key Features
 
 * **🔒 Secure User Accounts:** Full account creation and management.
 * **💸 Core Banking Operations:** Deposit, withdraw, and check balance.
@@ -48,7 +47,7 @@ The system provides a clean and interactive UI, role-based access (admin/custome
 
 <hr>
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to get a local copy of the project up and running.
 
@@ -105,7 +104,7 @@ Before running the application, you must set up the database.
 
 <hr>
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
