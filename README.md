@@ -26,8 +26,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Database Setup](#database-setup)
-  * [Installation & Usage](#installation-usage)  * [License](#license)
-
+  * [Installation & Usage](#installation-usage) 
 <hr>
 
 ## Overview
@@ -104,9 +103,6 @@ Before running the application, you must set up the database.
 
 <hr>
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 <hr>
 <div align="left">
